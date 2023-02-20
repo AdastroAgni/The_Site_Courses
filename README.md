@@ -1,6 +1,6 @@
 # The_Site_bootstrap
 
-# I created the technical specification for a website selling turbines for BMW шт telegram
+# I created the technical specification for a website selling turbines for BMW in telegram
 
 # Overview:
 The website will be an e-commerce platform that sells turbines for BMW vehicles. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service.
