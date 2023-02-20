@@ -6,7 +6,7 @@
 The website will be an e-commerce platform that sells turbines for BMW vehicles. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service.
 
 # Functional Requirements:
-   User registration: Users will be able to register and create an account on the website.
+## User registration: Users will be able to register and create an account on the website.
    Search functionality: Users will be able to search for the specific turbine model for their BMW vehicle.
    Product catalog: A catalog of the different turbine models available will be presented to users.
    Product pages: Each product page will display detailed information about the specific turbine model, including specifications, pricing, and compatibility with different BMW models.
