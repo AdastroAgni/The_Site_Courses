@@ -1,9 +1,9 @@
 # The_Site_bootstrap_CoursesForProgramming
 
-# I created the technical specification for a website selling turbines for BMW in telegram
+# I created the technical specification for a website selling programming courses
 
 # Overview:
-The website will be an e-commerce platform that sells turbines for BMW vehicles. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service.
+The website will be an e-commerce platform that sells programming courses. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service.
 
 # Functional Requirements:
 User registration: Users will be able to register and create an account on the website.
@@ -47,7 +47,9 @@ E-commerce platform: WooCommerce
 Payment gateway: Stripe
 
 Hosting: Amazon Web Services (AWS)
+
+Database: MySQL
     
  # Conclusion:
  
-This technical specification outlines the requirements for a website selling turbines for BMW vehicles. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service. The technical stack includes programming languages such as HTML, CSS, JavaScript, and PHP, along with popular tools such as WordPress, WooCommerce, Stripe, and AWS.
+This technical specification outlines the requirements for a website selling programming courses. The website will provide a user-friendly interface, allowing users to browse, purchase, and track their orders. The website will also include a section for technical support and customer service. The technical stack includes programming languages such as HTML, CSS, JavaScript, and PHP, along with popular tools such as WordPress, WooCommerce, Stripe, and AWS.
