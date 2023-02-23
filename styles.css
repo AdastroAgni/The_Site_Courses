@@ -1,18 +1,57 @@
 body {
 background-color: white;
-
 font-size: 12;
-
 }
+
+
+/* First Line */
 
 .main {
     display: flex;
+    justify-content: space-between;
+
 }
 
-.main_img {
-    width: auto;
-    margin-left: 800px;
-    margin-top: -300px;
+.contain{
+    max-width: 1197px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding: 15px;
+}
+
+.main__img{
+    width: 100%;
+}
+
+.main__text{
+    flex-basis: 490px;
+}
 
 
+
+
+
+
+
+
+
+
+/* Company Logo */
+.company{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alfa-logo{
+    width: 300px;
+}
+
+.raiff-logo 
+{
+    width: 300px;
+}
+
+.timeweb-logo{
+    width: 300px;
 }
