@@ -4,6 +4,10 @@ font-size: 12;
 }
 
 
+
+
+
+
 /* First Line */
 
 .main {
@@ -54,4 +58,17 @@ font-size: 12;
 
 .timeweb-logo{
     width: 300px;
+}
+
+.timeweb-logo:hover{
+    color: black;
+}
+
+
+
+
+/* Section with new cards */
+.section_two {
+    text-align: center;
+    margin-bottom: 35px;
 }
