@@ -126,7 +126,8 @@ font-size: 12;
 
 @media(max-width: 1120px) {
     .company{
-        margin-top: 110px;
+        margin-top: 105px;
+        justify-content: space-around;
     }
 
     .alfa-logo{
@@ -139,3 +140,18 @@ font-size: 12;
         width: 250px;
     }
 }
+
+
+@media(max-width: 970px){
+   
+    .alfa-logo{
+        width: 200px;
+    }
+    .raiff-logo{
+        width: 200px;
+    }
+    .timeweb-logo{
+        width: 200px;
+    }
+}
+
