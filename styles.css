@@ -109,6 +109,33 @@ font-size: 12;
 }
 
 
+
+
+
+/* Section For Review */
+
+.as-tile-rounded {
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+}
+
+.as-left {
+    margin-top: 150px;
+    text-align: left;
+}
+
+.as-richtext {
+    position: relative;
+    word-break: break-word;
+
+}
+
+
+
+
+
+
 @media(max-width: 1400px){
     .main{
         justify-content: space-around;
