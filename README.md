@@ -1,4 +1,4 @@
-# The_Site_bootstrap_CoursesForProgramming
+# The_Site_CoursesForProgramming
 
 # I created the technical specification for a website selling programming courses
 
